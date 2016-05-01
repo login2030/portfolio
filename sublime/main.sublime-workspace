@@ -1,0 +1,999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"img",
+				"img_login2030	(index.php)"
+			],
+			[
+				"main",
+				"main_footer	(index.php)"
+			],
+			[
+				"data",
+				"data_works.php"
+			],
+			[
+				"item_",
+				"item_wrapper	(index.php)"
+			],
+			[
+				"poup",
+				"popup_content	(index.php)"
+			],
+			[
+				"arr",
+				"arrScill"
+			],
+			[
+				"item",
+				"item_scill	(main.js)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"my_",
+				"my_scill	(index.php)"
+			],
+			[
+				"nav",
+				"navIcon"
+			],
+			[
+				"wrapper",
+				"wrapper_mobile_circles"
+			],
+			[
+				"bg",
+				"background"
+			],
+			[
+				"css",
+				"css_color	(mixin.styl)"
+			],
+			[
+				"html",
+				"html_color	(mixin.styl)"
+			],
+			[
+				"font",
+				"font.styl"
+			],
+			[
+				"lo",
+				"logo.png	w:588 h:280"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"delay_",
+				"delay_start_popup"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"close",
+				"closeTab"
+			],
+			[
+				"out",
+				"outCallPopup"
+			],
+			[
+				"ri",
+				"riderReviews"
+			],
+			[
+				"delete",
+				"deleteEmptyElement"
+			],
+			[
+				"check",
+				"check_hide	(change24wm.js)"
+			],
+			[
+				"dsi",
+				"display_block	(common.less)"
+			],
+			[
+				"table",
+				"tableTrade"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"popup",
+				"popupMore"
+			],
+			[
+				"t",
+				"table__trade"
+			],
+			[
+				"table_",
+				"table_body	 common.less"
+			],
+			[
+				"d-t",
+				"d-tbhg	display: table-header-group;"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"check_",
+				"check_hide	(trade.html)"
+			],
+			[
+				"time",
+				"time_sort	(trade.html)"
+			],
+			[
+				"ico",
+				"icon-eye.png	w:20 h:16"
+			],
+			[
+				"pt",
+				"ptsans-b	 change24wm.less"
+			],
+			[
+				"cl",
+				"close.png	w:40 h:40"
+			],
+			[
+				"ws-n",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"glo",
+				"global_popup	(index.html)"
+			],
+			[
+				"dark",
+				"dark_grey	(examples.html)"
+			],
+			[
+				"o",
+				"oswald"
+			],
+			[
+				"ex",
+				"exchanger"
+			],
+			[
+				"exchan",
+				"exchanger_table	(index.html)"
+			],
+			[
+				"grey",
+				"light_grey	 mixins.less"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"re",
+				"review	(index.html)"
+			],
+			[
+				"dis",
+				"display_block	(index.html)"
+			],
+			[
+				"yellow",
+				"yellow_text	 mixins.less"
+			],
+			[
+				"c",
+				"c	color: #${1:000};"
+			],
+			[
+				"li",
+				"light_grey	 mixins.less"
+			],
+			[
+				"oswal",
+				"oswald-ri	 mixins.less"
+			],
+			[
+				"header",
+				"logo_header.svg"
+			],
+			[
+				"me",
+				"media.less"
+			],
+			[
+				"in",
+				"include/"
+			],
+			[
+				"im",
+				"@import	@import url(${0});"
+			],
+			[
+				"link",
+				"link	(demos.html)"
+			],
+			[
+				"fake",
+				"fakeloader	(demo1.html)"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"marginTop"
+			],
+			[
+				"text",
+				"textColor"
+			],
+			[
+				"lao",
+				"lao_loader	(index.php)"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fart",
+				"fartucBg"
+			],
+			[
+				"far",
+				"fartuk_bg	(index.php)"
+			],
+			[
+				"lao_",
+				"lao_popup	(index.php)"
+			],
+			[
+				"i",
+				"images/"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"name",
+				"name_units"
+			],
+			[
+				"ме",
+				"месяц	(options_calculator.php)"
+			],
+			[
+				"wp_non",
+				"wp_nonce_field"
+			],
+			[
+				"lao_calc",
+				"lao_calc_option"
+			],
+			[
+				"LAO",
+				"LAO_PLUGIN_NAME"
+			],
+			[
+				"register_",
+				"register_setting"
+			],
+			[
+				"add_op",
+				"add_option"
+			],
+			[
+				"spee",
+				"speed1"
+			],
+			[
+				"plu",
+				"plugin	WordPress Plugin Boilerplate"
+			],
+			[
+				"lao_t",
+				"lao_theme_options_header	(lao_options.php)"
+			],
+			[
+				"wp_lo",
+				"wp_localize_script"
+			],
+			[
+				"lao_opti",
+				"lao_options.js"
+			],
+			[
+				"wp_regi",
+				"wp_register_script"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"lao_theme",
+				"lao_theme_options_sectioon_cb"
+			],
+			[
+				"add_settings_",
+				"add_settings_section"
+			],
+			[
+				"add_se",
+				"add_settings_section"
+			],
+			[
+				"add_",
+				"add_settings_field"
+			],
+			[
+				"regi",
+				"register_setting"
+			],
+			[
+				"add_setti",
+				"add_settings_field"
+			],
+			[
+				"delete_",
+				"delete_option"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"sho",
+				"shortcode_atts"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_re",
+				"wp_register_script"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"has_po",
+				"has_post_thumbnail"
+			],
+			[
+				"wp_reset",
+				"wp_reset_query"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"th",
+				"theloop	The Loop"
+			],
+			[
+				"cat",
+				"cat_ID"
+			],
+			[
+				"get_the",
+				"get_the_category"
+			],
+			[
+				"ret",
+				"ret	return"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"__",
+				"__FILE__"
+			],
+			[
+				"step",
+				"step_1"
+			],
+			[
+				"view",
+				"view_tariff"
+			],
+			[
+				"right",
+				"right_step	(1.html)"
+			],
+			[
+				"pay_",
+				"pay_res	(1.html)"
+			],
+			[
+				"left",
+				"left_step	(1.html)"
+			],
+			[
+				"ma",
+				"main_calc"
+			],
+			[
+				"right_",
+				"right_select	(1.html)"
+			],
+			[
+				"left_",
+				"left_legend	(1.html)"
+			],
+			[
+				"s",
+				"skype"
+			],
+			[
+				"contacts_",
+				"contacts_block_form"
+			],
+			[
+				"opais_",
+				"opais_bottom	(index.html)"
+			],
+			[
+				"wrapper_",
+				"wrapper_content_item_4"
+			],
+			[
+				"payment",
+				"payment3"
+			],
+			[
+				"opais",
+				"opais3"
+			],
+			[
+				"mbe",
+				"mbeland"
+			],
+			[
+				"scroll",
+				"scrollbar	(mbeland.less)"
+			],
+			[
+				"cu",
+				"custom	(mbeland.less)"
+			],
+			[
+				"sele",
+				"select_adress	(user_book.php)"
+			],
+			[
+				"adress_",
+				"adress_list	(user_book.php)"
+			],
+			[
+				"info_",
+				"info_wrap	(user_book.php)"
+			],
+			[
+				"val",
+				"value	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/www/Learn/node/1/hello.js",
+		"/C/xampp/htdocs/www/Learn/node/1/node_modules/beeper/index.js",
+		"/C/xampp/htdocs/www/My_projects/portfolio/style/stylus/import/mixin.styl",
+		"/C/xampp/htdocs/www/My_projects/portfolio/js/main.js",
+		"/C/xampp/htdocs/www/My_projects/portfolio/style/stylus/import/media.styl",
+		"/C/xampp/htdocs/www/My_projects/portfolio/style/stylus/style.styl",
+		"/C/xampp/htdocs/www/My_projects/portfolio/data_works.php",
+		"/C/xampp/htdocs/www/My_projects/portfolio/skills.php",
+		"/C/xampp/htdocs/www/My_projects/portfolio/index.php",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.202/SVG/mail4.svg",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.664/SVG/skype.svg",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.553/SVG/vk.svg",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.451/SVG/mobile.svg",
+		"/C/xampp/htdocs/www/My_projects/zaim/style/stylus/main.styl",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/xampp/htdocs/www/My_projects/portfolio/js/plugins/jquery.knob.min.js",
+		"/C/xampp/htdocs/www/My_projects/portfolio/js/plugins/jquery.masonry.min.js",
+		"/C/xampp/htdocs/www/portfolio/index.php",
+		"/C/xampp/htdocs/www/portfolio/style/stylus/import/mixin.styl",
+		"/C/xampp/htdocs/www/portfolio/style/stylus/import/media.styl",
+		"/C/xampp/htdocs/www/portfolio/js/main.js",
+		"/C/xampp/htdocs/www/portfolio/style/stylus/style.styl",
+		"/G/LOGIN2030_DOC/Учеба/ItBursa_JavaScript/Блок_1/Практическое задание/jsbursa1/getWinner.js",
+		"/C/xampp/htdocs/www/portfolio/style/css/style.css",
+		"/C/xampp/htdocs/www/oop_js/2.html",
+		"/C/xampp/htdocs/www/portfolio/index.html",
+		"/C/xampp/htdocs/www/portfolio/jade/includes/data.jade",
+		"/C/xampp/htdocs/www/portfolio/jade/index.jade",
+		"/C/xampp/htdocs/www/portfolio/jade/includes/data.json",
+		"/C/xampp/htdocs/www/portfolio/package.json",
+		"/C/xampp/htdocs/www/portfolio/gulpfile.js",
+		"/C/xampp/htdocs/www/portfolio/jade/data.jade",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/scripts_1447055585.pack.js",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/styles_1447055586.pack.css",
+		"/C/xampp/htdocs/www/portfolio/style/stylus/import/font.styl",
+		"/C/xampp/htdocs/www/portfolio/style/css/import/font.css",
+		"/D/Downloads Chrome/masonry-docs/js/masonry-docs.min.js",
+		"/D/Downloads Chrome/masonry-docs/index.html",
+		"/C/xampp/htdocs/www/portfolio/style/style.styl",
+		"/C/xampp/htdocs/www/portfolio/style/style.css",
+		"/C/xampp/htdocs/www/portfolio/style/style.sass",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/custom.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/promo_popup/Promo Popup.mucow",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/my_script.js",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/html.js",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/normalize.css",
+		"/C/Users/login2030/AppData/Local/Temp/fz3temp-1/content.css",
+		"/C/Users/login2030/Downloads/2110549/autospot_v1_300x250/autospot_v1_300x250.html",
+		"/C/Users/login2030/Downloads/2110549/autospot_v1_300x250/autospot_v1_300x250_edgePreload.js",
+		"/C/Users/login2030/Downloads/2110549/autospot_v1_300x250/scripts.js",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/block_authorize_no.html",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/index_v2.html",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/block_authorize_yes.html",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/authorize.inc.php",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/index.php",
+		"/C/xampp/htdocs/www/Freelance/odnopolchane.net/index.php",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.539/autospot_v1_300x250/autospot_v1_300x250.html",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.635/autospot_v1_300x250/autospot_v1_300x250_edgePreload.js",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/main.js",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/header.inc.php",
+		"/C/Users/login2030/Downloads/Attachments_garant_21@mail.ru_2015-12-20_15-13-29/lao_script.js",
+		"/C/xampp/htdocs/www/Freelance/odnopolchane.net/jquery.close-tabs.js",
+		"/C/xampp/htdocs/www/Freelance/odnopolchane.net/sessvars.js",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.995/index.html",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/Meny-master/README.md",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/Meny-master/js/meny.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/Meny-master/css/demo.css",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/Meny-master/index.html",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/Meny-master/menu.mucow",
+		"/C/xampp/htdocs/www/Freelance/odnopolchane.net/jquery.js",
+		"/D/soft/Sublime Text 3/Data/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/login2030/YandexDisk/Сайтостроение/js скрипты/Close_Tab.html",
+		"/C/xampp/htdocs/www/Freelance/odnopolchane.net/jquery.coockie.js",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.398/0.mucow",
+		"/C/xampp/htdocs/www/test.js",
+		"/C/Users/login2030/AppData/Local/Temp/Rar$DIa0.305/stackable.src.js",
+		"/D/Downloads Chrome/постепенно скрывающееся горизонтальное меню/index.html",
+		"/D/Downloads Chrome/video.mucow",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_06/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_04/all-trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_03/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_02/_css/main.css",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_02/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_13/roots.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_03/03_01/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_12/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_11/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_10/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_09/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_08/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_07/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_05/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_06/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_03/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_05/finished_files/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_02/finished_files/trails.htm",
+		"/G/LOGIN2030_DOC/Учеба/HTML5 Структура, Синтаксис, и Семантика - 2015/Ex_Files_HTML5_SSS/Exercise Files/Chapter_02/02_01/blog.htm",
+		"/D/Downloads Chrome/0.mucow",
+		"/D/Downloads Chrome/0-min.mucow",
+		"/C/Users/login2030/YandexDisk/Раздача/test/index.html",
+		"/C/Users/login2030/YandexDisk/Раздача/test/scripts/jquery.watch.js",
+		"/C/Users/login2030/YandexDisk/Раздача/test/scripts/museutils.js",
+		"/C/Users/login2030/AppData/Roaming/Skype/My Skype Received Files/1(1).mucow",
+		"/C/xampp/htdocs/www/Freelance/gif-1/index.html",
+		"/C/xampp/htdocs/www/Freelance/gif-1/1.css",
+		"/C/xampp/htdocs/www/Freelance/gif-1/1.js",
+		"/C/xampp/htdocs/www/Freelance/gif-1/1.min.js",
+		"/C/xampp/htdocs/www/INFO-DVD/index.php",
+		"/C/xampp/htdocs/www/INFO-DVD/2.php",
+		"/C/xampp/htdocs/www/INFO-DVD/PHP-Huffman-master/HuffmanDictionary.php",
+		"/C/xampp/htdocs/www/INFO-DVD/PHP-Huffman-master/Huffman.php",
+		"/C/xampp/htdocs/www/INFO-DVD/readme.txt",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.948/PHP-Huffman-master/Huffman.php",
+		"/C/Users/LOGIN2~1/AppData/Local/Temp/Rar$DRa0.729/PHP-Huffman-master/tests.php",
+		"/C/xampp/htdocs/www/INFO-DVD/huffman.php",
+		"/C/xampp/htdocs/www/INFO-DVD/huffman.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/video1.mucow",
+		"/C/xampp/htdocs/www/TEST-TASK/style/core.css",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/jquery-video-extend-master/js/jquery.video-extend.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/jquery-video-extend-master/index.html",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/jquery-video-extend-master/1.mucow",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/jquery-video-extend-master/default.mucow",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/crossfade.js-master/demo/prism.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/crossfade.js-master/demo/style.css",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/crossfade.js-master/demo/app.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/crossfade.js-master/src/crossfade.jquery.js",
+		"/C/xampp/htdocs/www/Freelance/AdobeMuse/crossfade.js-master/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"works",
+			"table",
+			"bg_light",
+			"checkbox",
+			"aggressive",
+			"lang",
+			"hover",
+			"lang",
+			"head",
+			"show5s",
+			"scroll",
+			"param_delay",
+			"delay",
+			"mouseleave",
+			"'/'",
+			"type",
+			"param_type",
+			"video_mp4",
+			"</p>",
+			"<p>",
+			"h4",
+			"console",
+			"″",
+			"”",
+			"“",
+			"’",
+			"‘",
+			"play",
+			"myNumber",
+			"buttons_usd",
+			"popup1",
+			"popupLkEntry",
+			"Обрезание",
+			"url",
+			"buttons",
+			"button",
+			"contacts",
+			"h2",
+			"200",
+			"tabset8",
+			"first",
+			"strict",
+			"aggressive",
+			"sensitivity",
+			"timer",
+			"#ouibounce-modal",
+			"ouibounce-modal",
+			"stopPropagation",
+			"speed",
+			"itemUID",
+			"myNumber",
+			"transition",
+			"transform",
+			"display",
+			"table",
+			"tooltipText",
+			"param",
+			"bounceInUp",
+			"textColor2",
+			"r2",
+			"delimitier",
+			"color_",
+			"создание",
+			"' установка'",
+			"'/мес'",
+			"manage_options",
+			"lap",
+			"span",
+			"mbe",
+			"возвратом",
+			"payer3",
+			"time3",
+			"arr31",
+			"opais3",
+			"form_recipient_individual_index",
+			"form_info_about_sending_individual_index",
+			"my_check",
+			"form_info_about_sending_individual_index",
+			"form_sender_individual_index",
+			"input_che",
+			"che",
+			"arr32",
+			"form1_individual",
+			"form11",
+			"ches1",
+			"возвратом",
+			"ches1",
+			"745px",
+			"indi",
+			"745",
+			"indivi",
+			"510",
+			"form_sender",
+			"form11",
+			"form_sender_edit",
+			"wrapContI1",
+			"wrapper_content_item_1",
+			".check",
+			".check ",
+			"'.check'",
+			".check",
+			"check",
+			"individual_index",
+			"temp",
+			"requireUserCalc",
+			"poleFCity",
+			"slideData",
+			"newError",
+			"slideData",
+			"textStatus",
+			"select_list",
+			"select_list_data_2",
+			"user_calc",
+			"user_edit",
+			"none",
+			"#CCC",
+			"checked_doc",
+			"progressAdminForm",
+			"load_tariff",
+			"user_calc",
+			"progressAdminForm",
+			"slideData",
+			"slideToggle",
+			"select_list",
+			"slideData",
+			"select_list",
+			"slideData",
+			"receiver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bg_dark",
+			"</dd>",
+			"<dd>",
+			"dt",
+			"\"",
+			"'",
+			".ouibounce-modal",
+			"_transition",
+			"_transform",
+			"data-",
+			"$inst",
+			"$mes",
+			"p",
+			"src=\"<?=$site?>/images",
+			"poleSeName",
+			"+7(",
+			"&amp;",
+			"</a><span>",
+			"data-lightbox=\"auto\"",
+			"class=\"zoom",
+			"e"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"animatio",
+				"2rb2\\js\\animation.js"
+			],
+			[
+				"",
+				"lab-4-1.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

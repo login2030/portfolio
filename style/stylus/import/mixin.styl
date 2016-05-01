@@ -1,0 +1,21 @@
+// vars
+bg_color = #272822
+pink_text = #FF5F71
+bg_mobile_menu = #264E81
+// mixins
+unisans-b()
+	font-family 'UniSansHeavy'
+
+circle(w)
+	width w
+	height w
+	border-radius 100%
+
+transition(s = 0.5s)
+	-webkit-transition all s ease
+	-moz-transition all s ease
+	-o-transition all s ease
+	transition all s ease
+bg_dark(bg)
+	&:hover
+		background bg - 25%
